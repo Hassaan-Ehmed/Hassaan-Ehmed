@@ -1,7 +1,12 @@
-<h1 align="center">Hi 👋, I'm Hassaan</h1>
-<h3 align="center">A passionate Web developer from Pakistan</h3>
+<h2 align="center">Hey,  this is Hassaan 😇<br><br>A passionate Web developer from Earth🌍</h2>
 
-- 🔭 I’m currently Studying on **PHP MySQL Laravel**
+###
+
+<h3 align="left">My Skills ⚙</h3>
+
+###
+
+- 🔭 I’m currently Studying on **PHP Laravel**
 
 - 🌱 I’m currently learning **ReactJS & NEXTJS**
 
