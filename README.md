@@ -9,7 +9,8 @@
 
 <div align="left">
   
-My Skills ⚙
+[ Current Technologies ] 
+
 🔭 I’m currently Studying on PHP Laravel
 
 🌱 I’m currently learning ReactJS & NEXTJS
@@ -23,6 +24,8 @@ My Skills ⚙
 </div>
 
 ###
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
@@ -59,11 +62,18 @@ My Skills ⚙
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="84" height="47" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="84" height="47" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="84" height="47" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="84" height="47" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="84" height="47" alt="gmail logo"  />
+  <a href="https://www.youtube.com/channel/UCiS485r6J0msykxYU7bjG2Q" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="84" height="47" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/hassaan_dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="84" height="47" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hassaan-ehmed/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="84" height="47" alt="linkedin logo"  />
+  </a>
+  <a href="hassutecap@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="84" height="47" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
