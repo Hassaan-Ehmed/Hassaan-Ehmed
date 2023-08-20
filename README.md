@@ -9,7 +9,7 @@
 </div>
 
 
-<div align="left">
+<div>
   
 <h2>[ Current Technologies ]</h2> 
 
