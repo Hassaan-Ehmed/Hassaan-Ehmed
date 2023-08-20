@@ -9,9 +9,6 @@
 </div>
 
 
-
-###
-
 <div align="left">
   
 <h2>[ Current Technologies ]</h2> 
