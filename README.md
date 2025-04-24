@@ -50,6 +50,8 @@ RC*:{cmd🕸 =>[Design,Dynamic] ? TS };
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=react" height="47" alt="react logo"  />
   <img width="20" />
+    <img src="https://skillicons.dev/icons?i=angular" height="47" alt="angular logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=redux" height="47" alt="redux logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="47" alt="bootstrap logo"  />
