@@ -40,6 +40,7 @@ RC*:{cmd🕸 =>[Design,Dynamic] ? TS };
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="47" alt="html5 logo"  />
   <img width="20" />
+  
   <img src="https://skillicons.dev/icons?i=css" height="47" alt="css3 logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="47" alt="javascript logo"  />
@@ -47,6 +48,8 @@ RC*:{cmd🕸 =>[Design,Dynamic] ? TS };
   <img src="https://skillicons.dev/icons?i=ts" height="47" alt="typescript logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=cs" height="47" alt="csharp logo"  />
+  <img width="20" />
+   <img src="https://skillicons.dev/icons?i=cpp" height="47" alt="c++ logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=jquery" height="47" alt="jquery logo"  />
   <img width="20" />
